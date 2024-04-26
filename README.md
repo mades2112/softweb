@@ -28,7 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-soft.html
+home.html
 ```
 
 <html>
@@ -209,7 +209,7 @@ soft.html
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html"> Products </a></li>
-          <li><a href="council.html"> People </a></li>
+          <li><a href="people.html"> people </a></li>
           <li><a href="contact_us.html"> Contact </a></li>
         </ul>
         <form action="" method="get">
@@ -393,7 +393,7 @@ PRODUCT
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html" class="bg-product"> Products </a></li>
-          <li><a href="council.html"> People </a></li>
+          <li><a href="people.html"> people </a></li>
           <li><a href="contact_us.html"> Contact </a></li>
         </ul>
         <form action="" method="get">
@@ -624,7 +624,7 @@ COUNCIL
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html"> Products </a></li>
-          <li><a href="council.html" class="bg-people"> People </a></li>
+          <li><a href="people.html"class="bg-people"> people </a></li>
           <li><a href="contact_us.html"> Contact </a></li>
         </ul>
         <form action="" method="get">
@@ -874,7 +874,7 @@ CONTACT_US
         <ul>
           <li><a href="home.html"> Home </a></li>
           <li><a href="products.html"> Products </a></li>
-          <li><a href="council.html"> People </a></li>
+          <li><a href="people.html"> people </a></li>
           <li><a href="contact_us.html" class="bg-contact"> Contact </a></li>
         </ul>
         <form action="" method="get">
