@@ -473,7 +473,7 @@ PRODUCT
   </body>
 </html>
 ```
-council.html
+people.html
 ```
 COUNCIL
 <html>
